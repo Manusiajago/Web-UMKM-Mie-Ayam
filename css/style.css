@@ -33,7 +33,7 @@ body {
   align-items: center;
   padding: 1.4rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
-  border-bottom: 1px solid #86694d;
+  border-bottom: 1px solid var(--primary);
   position: fixed;
   top: 0;
   left: 0;
